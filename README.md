@@ -1,2 +1,2 @@
 # Winscript
-Windows setup script with privacy patches
+Windows 10 setup script with privacy patches
